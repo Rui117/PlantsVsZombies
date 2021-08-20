@@ -30,7 +30,7 @@ jxc_seed = pygame.image.load("../pvz/png/jxc_kp.png")
 
 
 # text为阳光值
-text = "500"
+text = "100"
 sun_font = pygame.font.SysFont("黑体", 25)
 sun_num_surface = sun_font.render(str(text), True, (0, 0, 0))
 # 定义植物组，子弹组，僵尸组，阳光组
